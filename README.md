@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/mregasa0700/Test_Azure-Pipeline/_apis/build/status/mickowye.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/mregasa0700/Test_Azure-Pipeline/_build/latest?definitionId=1&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
